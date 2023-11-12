@@ -1,0 +1,8 @@
+{
+  "name": "VerbaVault",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "886e9394"
+}
